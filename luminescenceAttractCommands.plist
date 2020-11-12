@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+  <dict>
+    <key>command</key>
+    <integer>4</integer>
+    <key>effectName</key>
+    <string>Slow Rainbow Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>5</integer>
+    <key>effectName</key>
+    <string>Slow Wide Rainbow Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>6</integer>
+    <key>effectName</key>
+    <string>Slow Narrow Rainbow Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>1</integer>
+    <key>effectName</key>
+    <string>Medium Rainbow Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>2</integer>
+    <key>effectName</key>
+    <string>Medium Wide Rainbow Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>3</integer>
+    <key>effectName</key>
+    <string>Medium Narrow Rainbow Chase</string>
+  </dict>
+  
+  <dict>
+    <key>command</key>
+    <integer>7</integer>
+    <key>effectName</key>
+    <string>Fast Rainbow Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>8</integer>
+    <key>effectName</key>
+    <string>Fast Wide Rainbow Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>9</integer>
+    <key>effectName</key>
+    <string>Fast Narrow Rainbow Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>18</integer>
+    <key>effectName</key>
+    <string>Slow RGB Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>16</integer>
+    <key>effectName</key>
+    <string>Slow Wide RGB Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>17</integer>
+    <key>effectName</key>
+    <string>Slow Narrow RGB Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>15</integer>
+    <key>effectName</key>
+    <string>Medium RGB Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>13</integer>
+    <key>effectName</key>
+    <string>Medium Wide RGB Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>14</integer>
+    <key>effectName</key>
+    <string>Medium Narrow RGB Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>21</integer>
+    <key>effectName</key>
+    <string>Fast RGB Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>19</integer>
+    <key>effectName</key>
+    <string>Fast Wide RGB Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>20</integer>
+    <key>effectName</key>
+    <string>Fast Narrow RGB Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>25</integer>
+    <key>effectName</key>
+    <string>Slow CMY Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>27</integer>
+    <key>effectName</key>
+    <string>Slow Wide CMY Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>26</integer>
+    <key>effectName</key>
+    <string>Slow Narrow CMY Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>22</integer>
+    <key>effectName</key>
+    <string>Medium CMY Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>24</integer>
+    <key>effectName</key>
+    <string>Medium Wide CMY Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>23</integer>
+    <key>effectName</key>
+    <string>Medium Narrow CMY Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>28</integer>
+    <key>effectName</key>
+    <string>Fast CMY Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>30</integer>
+    <key>effectName</key>
+    <string>Fast Wide CMY Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>29</integer>
+    <key>effectName</key>
+    <string>Fast Narrow CMY Chase</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>32</integer>
+    <key>effectName</key>
+    <string>Slow Zaps</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>31</integer>
+    <key>effectName</key>
+    <string>Medium Zaps</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>33</integer>
+    <key>effectName</key>
+    <string>Fast Zaps</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>36</integer>
+    <key>effectName</key>
+    <string>Slow Sparkles</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>34</integer>
+    <key>effectName</key>
+    <string>Medium Sparkles</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>35</integer>
+    <key>effectName</key>
+    <string>Fast Sparkles</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>38</integer>
+    <key>effectName</key>
+    <string>Slow Rainbow Strobe</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>37</integer>
+    <key>effectName</key>
+    <string>Medium Rainbow Strobe</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>39</integer>
+    <key>effectName</key>
+    <string>Fast Rainbow Strobe</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>41</integer>
+    <key>effectName</key>
+    <string>Slow White Strobe</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>40</integer>
+    <key>effectName</key>
+    <string>Medium White Strobe</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>42</integer>
+    <key>effectName</key>
+    <string>Fast White Strobe</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>43</integer>
+    <key>effectName</key>
+    <string>Slow Color Cycle</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>10</integer>
+    <key>effectName</key>
+    <string>Medium Color Cycle</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>44</integer>
+    <key>effectName</key>
+    <string>Fast Color Cycle</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>46</integer>
+    <key>effectName</key>
+    <string>Slow Changing Color Pulse</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>45</integer>
+    <key>effectName</key>
+    <string>Medium Changing Color Pulse</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>47</integer>
+    <key>effectName</key>
+    <string>Fast Changing Color Pulse</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>64</integer>
+    <key>effectName</key>
+    <string>Solid Red</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>65</integer>
+    <key>effectName</key>
+    <string>Solid Orange</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>66</integer>
+    <key>effectName</key>
+    <string>Solid Yellow</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>67</integer>
+    <key>effectName</key>
+    <string>Solid Green</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>68</integer>
+    <key>effectName</key>
+    <string>Solid Blue</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>69</integer>
+    <key>effectName</key>
+    <string>Solid Purple</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>70</integer>
+    <key>effectName</key>
+    <string>Solid Cyan</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>71</integer>
+    <key>effectName</key>
+    <string>Solid Magenta</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>72</integer>
+    <key>effectName</key>
+    <string>Solid White</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>73</integer>
+    <key>effectName</key>
+    <string>Solid Salmon</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>74</integer>
+    <key>effectName</key>
+    <string>Solid Lavender</string>
+  </dict>
+  <dict>
+    <key>command</key>
+    <integer>75</integer>
+    <key>effectName</key>
+    <string>Solid Amber</string>
+  </dict>
+</array>
+</plist>
